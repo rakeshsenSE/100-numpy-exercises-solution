@@ -16,10 +16,16 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 2. **Memory Size Calculation:** Understanding how arrays utilize memory in bytes (`a.size * a.itemsize`).
 3. **Documentation:** Navigating NumPy functions and inspecting documentation directly from the environment using `np.info()`.
 
-## ⚙️ Tech Stack
-- **Language:** Python 3.x
-- **Library:** NumPy
-- **Environment:** Visual Studio Code (VS Code) / Jupyter Notebook
+## 📈 Progress Tracker
+
+- [x] **Day 1 (Ex 1-5):** Vector creation & basic attributes (`np.zeros`, `np.arange`)
+- [x] **Day 2 (Ex 6-10):** Memory size, indexing, and finding non-zero elements
+- [x] **Day 3 (Ex 11-15):** 3D arrays, 2D slicing (`[1:-1, 1:-1]`), and finding mean values *(Today)*
+- [ ] **Day 4 (Ex 16-20):** Next 5 exercises (Upcoming)
+- [ ] **Day 5 (Ex 21-25):** Next 5 exercises
+- [ ] **Day 6 (Ex 26-30):** Next 5 exercises
+- [ ] **Day 7 (Ex 31-35):** Next 5 exercises
+- [ ] **Day 8 (Ex 36-40):** Next 5 exercises
 
 ---
 *Maintained by [Rakesh Sen](https://github.com/rakeshsenSE)*
