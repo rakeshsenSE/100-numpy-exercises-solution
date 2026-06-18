@@ -22,8 +22,8 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 - [x] **Day 2 (Ex 6-10):** Memory size, indexing, and finding non-zero elements
 - [x] **Day 3 (Ex 11-15):** 3D arrays, 2D slicing (`[1:-1, 1:-1]`), and finding mean values 
 - [ ] **Day 4 (Ex 16-20):
-- [ ] **Day 5 (Ex 21-25):*(Today)*
-- [ ] **Day 6 (Ex 26-30):** Next 5 exercises
+- [ ] **Day 5 (Ex 21-25):
+- [ ] **Day 6 (Ex 26-30):*(Today)-completed*
 - [ ] **Day 7 (Ex 31-35):** Next 5 exercises
 - [ ] **Day 8 (Ex 36-40):** Next 5 exercises
 - [ ] **continue....
