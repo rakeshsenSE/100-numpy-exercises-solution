@@ -24,8 +24,15 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 - [ ] **Day 4 (Ex 16-20):**completed
 - [ ] **Day 5 (Ex 21-25):**completed
 - [ ] **Day 6 (Ex 26-30):**completed
-- [ ] **Day 7 (Ex 31-35):*(Today)-complet*
-- [ ] **Day 8 (Ex 36-40):** Next 5 exercises
+- [ ] **Day 7 (Ex 31-35):**completed
+- [ ] **Day 8 (Ex 36-40):*(Today)-complet*
+- [ ] **Day 9 (Ex 41-45):** Next 5 exercises
+- [ ] **Day 10 (Ex 46-50):** Next 5 exercises
+- [ ] **Day 11 (Ex 50-55):** Next 5 exercises
+- [ ] **Day 12 (Ex 56-60):** Next 5 exercises
+- [ ] **Day 13 (Ex 61-65):** Next 5 exercises
+- [ ] **Day 14 (Ex 66-70):** Next 5 exercises
+- [ ] **Day 15 (Ex 71-75):** Next 5 exercises
 - [ ] **continue....
 
 ---
