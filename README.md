@@ -29,8 +29,8 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 - [ ] **Day 9 (Ex 41-45):**completed
 - [ ] **Day 10 (Ex 46-50):**completed
 - [ ] **day 11-**Revision all(1-50):**completed
-- [ ] **Day 12 (Ex 50-55):*(Today)-complet*
-- [ ] **Day 13 (Ex 56-60):** Next 5 exercises
+- [ ] **Day 12 (Ex 50-55):**completed
+- [ ] **Day 13 (Ex 56-60):*(Today)-complet*
 - [ ] **Day 14 (Ex 61-65):** Next 5 exercises
 - [ ] **Day 15 (Ex 66-70):** Next 5 exercises
 - [ ] **Day 16 (Ex 71-75):** Next 5 exercises
