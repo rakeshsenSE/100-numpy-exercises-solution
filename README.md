@@ -30,10 +30,11 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 - [ ] **Day 10 (Ex 46-50):**completed
 - [ ] **day 11-**Revision all(1-50):**completed
 - [ ] **Day 12 (Ex 50-55):**completed
-- [ ] **Day 13 (Ex 56-60):*(Today)-complet*
-- [ ] **Day 14 (Ex 61-65):** Next 5 exercises
-- [ ] **Day 15 (Ex 66-70):** Next 5 exercises
-- [ ] **Day 16 (Ex 71-75):** Next 5 exercises
+- [ ] **DAy(13-17) : ** finall Exam 
+- [ ] **Day 18 (Ex 56-60):**completed
+- [ ] **Day 19 (Ex 61-65):*(Today)-complet*
+- [ ] **Day 20 (Ex 66-70):** Next 5 exercises
+- [ ] **Day 21 (Ex 71-75):** Next 5 exercises
 - [ ] **continue....
 
 ---
