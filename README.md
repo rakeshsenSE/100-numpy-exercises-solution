@@ -30,12 +30,17 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 - [ ] **Day 10 (Ex 46-50):**completed
 - [ ] **day 11-**Revision all(1-50):**completed
 - [ ] **Day 12 (Ex 50-55):**completed
-- [ ] **DAy(13-17) : ** finall Exam 
+- [ ] **DAy(13-17) : **Brack for finall Exam 
 - [ ] **Day 18 (Ex 56-60):**completed
 - [ ] **Day 19 (Ex 61-65):**completed
-- [ ] **Day 20 (Ex 66-70):*(Today)-complet*
-- [ ] **Day 21 (Ex 71-75):** Next 5 exercises
-- [ ] **continue....
+- [ ] **Day 20 (Ex 66-70):**completed
+- [ ] **Day 21 (Ex 71-75):**completed
+- [ ] **Day 22 (Ex 76-80):**completed
+- [ ] **Day 23 (Ex 81-85):**completed
+- [ ] **Day 24 (Ex 86-90):** Next 5 exercises
+- [ ] **Day 25 (Ex 91-95):** Next 5 exercises
+- [ ] **Day 19 (Ex 96-100):** Next 5 exercises
+- [ ] **END
 
 ---
 *Maintained by [Rakesh Sen](https://github.com/rakeshsenSE)*
