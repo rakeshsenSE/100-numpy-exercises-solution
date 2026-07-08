@@ -6,7 +6,7 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 
 - [x] Exercises 1-10: Vector creation & basic attributes
 - [x] Exercises 11-20: Slicing, Reshaping & Mean values (Current)
-- [ ] Exercises 21-40: Comming Soon...
+- [ ] Exercises 21-100: continue...
 
 ## 📂 Project Structure
 - `100_NumPy_exercises.ipynb`: The main Jupyter Notebook where I write, test, and run my solutions.
@@ -37,9 +37,9 @@ This repository contains my personal solutions for the popular **"100 NumPy Exer
 - [ ] **Day 21 (Ex 71-75):**completed
 - [ ] **Day 22 (Ex 76-80):**completed
 - [ ] **Day 23 (Ex 81-85):**completed
-- [ ] **Day 24 (Ex 86-90):** Next 5 exercises
+- [ ] **Day 24 (Ex 86-90):**completed
 - [ ] **Day 25 (Ex 91-95):** Next 5 exercises
-- [ ] **Day 19 (Ex 96-100):** Next 5 exercises
+- [ ] **Day 26 (Ex 96-100):** Next 5 exercises
 - [ ] **END
 
 ---
